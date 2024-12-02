@@ -80,3 +80,23 @@ Here are well-structured tables summarizing the **Key Insights** and related the
 ---
 
 These tables capture the main ideas succinctly. Let me know if further adjustments are needed!
+
+
+Here is a **merged table** comparing and contrasting the three customer segments side-by-side:
+
+---
+
+### **Comparison Table: Customer Segment Discovery Process**
+| **Aspect**            | **Casual Gamers**                                      | **Hardcore Gamers**                                       | **Game Developers/Studios**                               |
+|------------------------|-------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| **Job to Be Done**     | Play for relaxation, socialization, and escapism.     | Seek mastery, competitive play, and immersive experiences. | Design engaging games balancing creativity and market demands. |
+| **Pains**             | - Steep learning curves                               | - Unbalanced gameplay mechanics                          | - Limited tools for adaptation                           |
+|                        | - Repetitive gameplay                                | - Lack of challenge                                     | - Balancing player feedback with core vision             |
+|                        | - Difficulty spikes                                  | - Technical issues (e.g., bugs, lag)                    | - High player churn due to static mechanics              |
+| **Needs**             | - Easy onboarding (simple tutorials)                 | - Skill-based mechanics (reward practice and mastery)    | - Data-driven tools (adaptive mechanics prototyping)     |
+|                        | - Dynamic difficulty (adapts subtly to skill level)  | - Customizable difficulty (personalized challenges)     | - Retention-focused systems (milestone rewards)          |
+|                        | - Clear progression (short-term rewards)            | - Competitive balance (fair multiplayer experiences)    | - Iterative design support (rapid testing/feedback)      |
+
+---
+
+This table provides a direct comparison of their **jobs, pains, and needs**, highlighting similarities and differences between the three profiles. Let me know if you need further refinements!
