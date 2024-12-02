@@ -37,3 +37,46 @@ Here are three concise tables summarizing the **Customer Segment Discovery Proce
 |                       | - Iterative design support (rapid testing, feedback implementation)                           | 
 
 Let me know if you'd like adjustments or additional insights.
+
+
+
+Here are well-structured tables summarizing the **Key Insights** and related themes:
+
+---
+
+### **Table 1: Calibration of Problem Understanding**
+| **Aspect**          | **Casual Gamers**                                                                             | **Hardcore Gamers**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Learning Curve**   | Prefer intuitive onboarding and minimal effort.                                               | Accept steep learning curves if the rewards are justified.                        |
+| **Dynamic Difficulty** | Value subtle, non-intrusive adjustments.                                                     | Demand options for customization and fine-tuning.                                 |
+| **Replayability**    | Focus on immediate gratification and simpler progression systems.                             | Seek progressive challenges and unique rewards for replaying content.             |
+
+---
+
+### **Table 2: Design Ideas and Reality Check**
+| **Insights**                          | **Description**                                                                 |
+|---------------------------------------|--------------------------------------------------------------------------------|
+| **Aligning with Hypotheses**          | - Personalization and dynamic difficulty are crucial for all gamer segments.   |
+|                                       | - Adaptive systems enhance retention by tailoring gameplay experiences.        |
+| **Diverging from Hypotheses**         | - Over-personalization can overwhelm players; pre-set templates are essential. |
+|                                       | - Dynamic difficulty must preserve a sense of achievement.                     |
+|                                       | - Replayability matters more for hardcore gamers than casual gamers.           |
+
+---
+
+### **Table 3: Granular Interview-Specific Insights**
+| **Customer Segment**   | **Key Insights**                                                                                     |
+|-------------------------|-----------------------------------------------------------------------------------------------------|
+| **Casual Gamers**       | - Abandon games when challenges are repetitive or overly simple.                                    |
+|                         | - Milestone rewards (e.g., Day 6 gear) boost retention.                                             |
+|                         | - Prefer intuitive mechanics and clear progression paths.                                           |
+| **Hardcore Gamers**     | - Motivated by overcoming challenges (e.g., boss fights in "Dark Souls").                           |
+|                         | - Play 10–15 hours weekly, fluctuating with commitments.                                            |
+|                         | - Value games with strategic depth and reflex-based challenges (e.g., "StarCraft").                 |
+| **Game Developers**     | - Testing environments yield biased results; real-world data is better for player preference analysis. |
+|                         | - Localization of customization options is critical for global audiences.                           |
+|                         | - Combine short-term retention strategies (e.g., daily quests) with long-term goals.               |
+
+---
+
+These tables capture the main ideas succinctly. Let me know if further adjustments are needed!
